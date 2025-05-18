@@ -5,6 +5,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<Authors>RyoTune</Authors>
+		<PackageProjectUrl>https://github.com/RyoTune/RyoTune.ClairObscur</PackageProjectUrl>
     </PropertyGroup>
 
     <ItemGroup>
