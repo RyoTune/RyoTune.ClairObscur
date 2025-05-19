@@ -7,10 +7,11 @@
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<Authors>RyoTune</Authors>
 		<PackageProjectUrl>https://github.com/RyoTune/RyoTune.ClairObscur</PackageProjectUrl>
+        <Version>1.1.0</Version>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="UE.Toolkit.Core" Version="1.0.0" />
+      <PackageReference Include="UE.Toolkit.Core" Version="1.1.0" />
     </ItemGroup>
 
 </Project>
