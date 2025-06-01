@@ -2,7 +2,10 @@ name: Build and Publish to NuGet
 
 on:
   workflow_dispatch:
-    
+  push:
+    tags:
+      - '*.*.*'
+
 env:
   TYPES_PROJECT_NAME: RyoTune.ClairObscur.Types
   
